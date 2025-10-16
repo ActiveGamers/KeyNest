@@ -1,0 +1,10 @@
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\KeyNest.exe
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\KeyNest.dll
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\KeyNest.deps.json
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\KeyNest.runtimeconfig.json
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\KeyNest.pdb
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\Microsoft.Data.Sqlite.dll
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\SQLitePCLRaw.core.dll
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mabna\source\repos\KeyNest\bin\Release\net9.0-windows\win-x64\publish\e_sqlite3.dll

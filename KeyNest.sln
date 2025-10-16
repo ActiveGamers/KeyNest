@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyNest", "KeyNest.csproj", "{C2032779-43F1-43CD-8785-C8DB6BD0A16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2032779-43F1-43CD-8785-C8DB6BD0A16F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{C2032779-43F1-43CD-8785-C8DB6BD0A16F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{C2032779-43F1-43CD-8785-C8DB6BD0A16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2032779-43F1-43CD-8785-C8DB6BD0A16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1A8AA0-600A-4572-B508-5A827D89B851}
+	EndGlobalSection
+EndGlobal
