@@ -8,14 +8,14 @@ It stores all your passwords **locally** on your PC, with zero encryption or clo
 
 ## Features ✨
 
-- 🗂️ **Local Database** – Stores everything in a local SQLite file at `%localappdata%\PasswordManager\passwords.db`
+- 🗂️ **Local Database** – Stores everything in a local SQLite file at `%app_location%\passwords.db`
 - ⚙️ **Full CRUD Support** – Create, Read, Update, Delete your passwords with an intuitive UI
 - 🖱️ **Right-Click Copy Menu** – Instantly copy any field (Username, Password, AppName, etc.)
 - 📋 **Multi-Field Copy** – Copy all details (AppName, Username, Password, Save Date) at once
 - 🪄 **Password Generator** – Create strong passwords with full customization and strength meter
 - ⭐ **Favorites & Tags** – Mark important passwords and group them for faster access
 - 🕓 **Password History** – Keep track of previous passwords for each entry
-- 💡 **Auto Logging** – Logs every user action in `%localappdata%\PasswordManager\Logs\`
+- 💡 **Auto Logging** – Logs every user action in `%app_location%\Logs\`
 - 🌓 **Light & Dark Themes** – Beautiful dual themes that adapt to your system
 - 💾 **Import / Export / Backup** – Export to CSV or JSON, and backup/restore your local DB easily
 - 🧭 **Open Website Directly** – Click any URL and open it right from the app
@@ -40,7 +40,7 @@ It stores all your passwords **locally** on your PC, with zero encryption or clo
 3. Fill in your app name, username, and password.
 4. Right-click any row to copy fields, edit, or delete.
 5. Use the search bar to quickly find your saved credentials.
-6. Check logs in `application_location\Logs\` if you’re curious about what’s happening behind the scenes.
+6. Check logs in `%app_location%\Logs\` if you’re curious about what’s happening behind the scenes.
 
 ---
 
